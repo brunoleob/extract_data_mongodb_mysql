@@ -17,3 +17,7 @@ Creation of a Python notebook to extract data from the API and insert it into a 
 ### Integration into MySQL:
 
 Implementation of a process to transfer data from the API to a table in a MySQL database.
+
+### MySQL Database Snapshot
+
+![MySQL Database Snapshot](images/mysql_image.png)
